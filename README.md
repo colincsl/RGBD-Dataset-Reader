@@ -1,4 +1,4 @@
-pyVideoDatasets
+RGBD Action Dataset Reader (w/ Python)
 ===============
 
 Datasets using depth+color+skeleton information can often be cumbersome to work with. Everybody seems to use a different convention for each dataset. In this library each player allows you to to seemlessly stream depth/color/skeletal information. There is a single interface for accessing all of this data while hiding the IO from the user. 
