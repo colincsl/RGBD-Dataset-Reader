@@ -15,18 +15,27 @@ Streaming capability (Uses BasePlayer)
 -----------
 
 MHADPlayer: Berkely Multimodal Human Activity Dataset
+
 tele-immersion.citris-uc.org/berkeley_mhad/
 
+
 MSRDailyActivity3D
+
 http://research.microsoft.com/en-us/um/people/zliu/actionrecorsrc/
 
+
 EVALPlayer: Stanford Skeleton Tracking Dataset (ECCV 2012)
+
 http://ai.stanford.edu/~varung/eccv12/
 
+
 pyKinectToolsPlayer: For use with my kinect library. Loads saved data.
+
 https://github.com/colincsl/pyKinectTools
 
+
 RealtimePlayer: For use with my kinect library. Streams data from a Kinect in realtime (requires pyOpenNI)
+
 https://github.com/colincsl/pyKinectTools
 
 
