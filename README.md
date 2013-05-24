@@ -11,31 +11,26 @@ Install
 -----------
 sudo python setup.py install
 
-Streaming capability (Uses BasePlayer)
+Streaming capable (Uses BasePlayer)
 -----------
 
-MHADPlayer: Berkely Multimodal Human Activity Dataset
-
+MHADPlayer: Berkely Multimodal Human Activity Dataset  
 tele-immersion.citris-uc.org/berkeley_mhad/
 
 
-MSRDailyActivity3D
-
+MSRDailyActivity3D  
 http://research.microsoft.com/en-us/um/people/zliu/actionrecorsrc/
 
 
-EVALPlayer: Stanford Skeleton Tracking Dataset (ECCV 2012)
-
+EVALPlayer: Stanford Skeleton Tracking Dataset (ECCV 2012)  
 http://ai.stanford.edu/~varung/eccv12/
 
 
-pyKinectToolsPlayer: For use with my kinect library. Loads saved data.
-
+pyKinectToolsPlayer: For use with my kinect library. Loads saved data.  
 https://github.com/colincsl/pyKinectTools
 
 
-RealtimePlayer: For use with my kinect library. Streams data from a Kinect in realtime (requires pyOpenNI)
-
+RealtimePlayer: For use with my kinect library. Streams data from a Kinect in realtime (requires pyOpenNI)  
 https://github.com/colincsl/pyKinectTools
 
 
@@ -44,12 +39,12 @@ Limited functionality/documentation
 
 These are useful for seeing how to load the data, but aren't fully functional. 
 
-ChalearnBodyPartReader: Chalearn gesture recognition competition data
-http://gesture.chalearn.org/data
-This file extracts depth images for all annotated joint data in the chalearn datasets.
+ChalearnBodyPartReader: Chalearn gesture recognition competition data  
+This file extracts depth images for all annotated joint data in the chalearn datasets.  
+http://gesture.chalearn.org/data  
 
-CAD60Player: The Cornell Human Activities Dataset (CAD-60)
+CAD60Player: The Cornell Human Activities Dataset (CAD-60)  
 http://pr.cs.cornell.edu/humanactivities/data.php
 
-SMMCPlayer: Stanford Skeleton Tracking Dataset (CVPR 2010)
+SMMCPlayer: Stanford Skeleton Tracking Dataset (CVPR 2010)  
 http://ai.stanford.edu/~varung/cvpr10/
